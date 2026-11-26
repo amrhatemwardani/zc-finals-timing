@@ -1,0 +1,4788 @@
+{
+  "meta": {
+    "term": "Fall 2026",
+    "examYear": 2027,
+    "dateRange": {
+      "start": "2027-01-02",
+      "end": "2027-01-18"
+    },
+    "source": "Fall26_FinalExam_RoomLists.xlsx",
+    "scheduledCourseCount": 243,
+    "unscheduledCourseCount": 56,
+    "reconciledSectionRoomCount": 17,
+    "reviewedRoomRosterSheetCount": 38,
+    "privacyNote": "Student identifiers and individual student records are not included.",
+    "dateNote": "The workbook omits the year; weekday labels match January 2027 and the source term is Fall 2026.",
+    "roomNote": "Course-level room lists come from the summary schedule. Personal room assignments cannot be identified from course selection alone. Section-room details are shown only for reconciled aggregate data.",
+    "qualityNote": "Section-room details are withheld when roster totals, section counts, room lists, capacity, or room counts disagree with the summary schedule."
+  },
+  "exams": [
+    {
+      "courseCode": "CIE 239",
+      "courseTitle": "Digital Design and Computer Architecture",
+      "date": "2027-01-02",
+      "weekday": "SAT",
+      "dayLabel": "SAT 2nd JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 2,
+      "studentCount": 109,
+      "rooms": [
+        "G006-B",
+        "G011-B"
+      ],
+      "sectionRoomDetails": [
+        {
+          "section": "1",
+          "rooms": [
+            {
+              "name": "G006-B",
+              "studentCount": 55
+            },
+            {
+              "name": "G011-B",
+              "studentCount": 6
+            }
+          ]
+        },
+        {
+          "section": "2",
+          "rooms": [
+            {
+              "name": "G011-B",
+              "studentCount": 48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseCode": "MGMT 301",
+      "courseTitle": "Project Management 2",
+      "date": "2027-01-02",
+      "weekday": "SAT",
+      "dayLabel": "SAT 2nd JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 1,
+      "studentCount": 12,
+      "rooms": [
+        "G007-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SWAPD 401",
+      "courseTitle": "Software Testing, Validation, and QA",
+      "date": "2027-01-02",
+      "weekday": "SAT",
+      "dayLabel": "SAT 2nd JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 1,
+      "studentCount": 25,
+      "rooms": [
+        "G035-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "MATH 103",
+      "courseTitle": "Calculus for Computational Science",
+      "date": "2027-01-02",
+      "weekday": "SAT",
+      "dayLabel": "SAT 2nd JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 6,
+      "studentCount": 491,
+      "rooms": [
+        "S006-F",
+        "G019-B",
+        "G025-B",
+        "G033-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SWHCI 301",
+      "courseTitle": "Prototyping Algorithmic Experiences",
+      "date": "2027-01-02",
+      "weekday": "SAT",
+      "dayLabel": "SAT 2nd JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 1,
+      "studentCount": 3,
+      "rooms": [
+        "G008-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "CSAI 100",
+      "courseTitle": "Intro to Computational Science and AI",
+      "date": "2027-01-02",
+      "weekday": "SAT",
+      "dayLabel": "SAT 2nd JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 15,
+      "rooms": [
+        "G007-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "ENV 328",
+      "courseTitle": "Sampling & Monitor of Environmental Poll",
+      "date": "2027-01-02",
+      "weekday": "SAT",
+      "dayLabel": "SAT 2nd JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 3,
+      "rooms": [
+        "G008-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SWHCI 352",
+      "courseTitle": "User-Focused Sensing Systems",
+      "date": "2027-01-02",
+      "weekday": "SAT",
+      "dayLabel": "SAT 2nd JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 8,
+      "rooms": [
+        "G007-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SWHCI 402",
+      "courseTitle": "AI Based Products and Services",
+      "date": "2027-01-02",
+      "weekday": "SAT",
+      "dayLabel": "SAT 2nd JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 2,
+      "rooms": [
+        "G009-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SWGCG 402",
+      "courseTitle": "Visual Effects Production",
+      "date": "2027-01-02",
+      "weekday": "SAT",
+      "dayLabel": "SAT 2nd JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 6,
+      "rooms": [
+        "G008-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "PHYS 205",
+      "courseTitle": "Introduction to Modern Astrophysics",
+      "date": "2027-01-02",
+      "weekday": "SAT",
+      "dayLabel": "SAT 2nd JAN",
+      "time": "10:00-13:00",
+      "start": "10:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 8,
+      "rooms": [
+        "G004-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SPC 337",
+      "courseTitle": "Gas Dynamics",
+      "date": "2027-01-02",
+      "weekday": "SAT",
+      "dayLabel": "SAT 2nd JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 33,
+      "rooms": [
+        "G035-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "MATH 101",
+      "courseTitle": "Calculus I",
+      "date": "2027-01-02",
+      "weekday": "SAT",
+      "dayLabel": "SAT 2nd JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 5,
+      "studentCount": 490,
+      "rooms": [
+        "G019-B",
+        "G025-B",
+        "G033-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "BMS 404",
+      "courseTitle": "Biostatistics",
+      "date": "2027-01-02",
+      "weekday": "SAT",
+      "dayLabel": "SAT 2nd JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 34,
+      "rooms": [
+        "G006-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "DSAI 307",
+      "courseTitle": "Statistical Inference",
+      "date": "2027-01-02",
+      "weekday": "SAT",
+      "dayLabel": "SAT 2nd JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 117,
+      "rooms": [
+        "G025-B",
+        "G011-B"
+      ],
+      "sectionRoomDetails": [
+        {
+          "section": "1",
+          "rooms": [
+            {
+              "name": "G011-B",
+              "studentCount": 58
+            },
+            {
+              "name": "G025-B",
+              "studentCount": 59
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseCode": "ITNS 406",
+      "courseTitle": "Network Resilience and Hardening",
+      "date": "2027-01-02",
+      "weekday": "SAT",
+      "dayLabel": "SAT 2nd JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 9,
+      "rooms": [
+        "G008-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "NANENG 439 / NANENG 501",
+      "courseTitle": "Advanced Digital ASIC Design",
+      "date": "2027-01-02",
+      "weekday": "SAT",
+      "dayLabel": "SAT 2nd JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 2,
+      "studentCount": 41,
+      "rooms": [
+        "G019-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "BGEN 101",
+      "courseTitle": "Business Mathematics",
+      "date": "2027-01-02",
+      "weekday": "SAT",
+      "dayLabel": "SAT 2nd JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 131,
+      "rooms": [
+        "G006-B",
+        "G011-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "ENV 527",
+      "courseTitle": "Optimal/Appropriate Technology",
+      "date": "2027-01-02",
+      "weekday": "SAT",
+      "dayLabel": "SAT 2nd JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 12,
+      "rooms": [
+        "G005-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "IT 205",
+      "courseTitle": "Enterprise System Architecture",
+      "date": "2027-01-02",
+      "weekday": "SAT",
+      "dayLabel": "SAT 2nd JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 23,
+      "rooms": [
+        "G036-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "NANENG 436 / NANENG 515",
+      "courseTitle": "Advanced MEMS Design and Fabrication Tech",
+      "date": "2027-01-02",
+      "weekday": "SAT",
+      "dayLabel": "SAT 2nd JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 2,
+      "studentCount": 6,
+      "rooms": [
+        "G008-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "BMS 321",
+      "courseTitle": "Programming for Computational Biology",
+      "date": "2027-01-03",
+      "weekday": "SUN",
+      "dayLabel": "SUN 3rd JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 1,
+      "studentCount": 7,
+      "rooms": [
+        "G008-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "MATH 203",
+      "courseTitle": "Introduction to Discrete Mathematics",
+      "date": "2027-01-03",
+      "weekday": "SUN",
+      "dayLabel": "SUN 3rd JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 1,
+      "studentCount": 29,
+      "rooms": [
+        "G035-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "MATH 105",
+      "courseTitle": "Probability and Statistics",
+      "date": "2027-01-03",
+      "weekday": "SUN",
+      "dayLabel": "SUN 3rd JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 4,
+      "studentCount": 496,
+      "rooms": [
+        "F005-F",
+        "S006-F",
+        "G038-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "ENGL 004 (sections 12-21)",
+      "courseTitle": "Remedial English 3 - sections 12-21",
+      "date": "2027-01-03",
+      "weekday": "SUN",
+      "dayLabel": "SUN 3rd JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 10,
+      "studentCount": 275,
+      "rooms": [
+        "G033-B",
+        "G011-B",
+        "G019-B",
+        "G006-B",
+        "G025-B",
+        "G035-B",
+        "G008-B",
+        "G036-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "NANENG 430",
+      "courseTitle": "Principles of Microwave and Waveguides",
+      "date": "2027-01-03",
+      "weekday": "SUN",
+      "dayLabel": "SUN 3rd JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 12,
+      "rooms": [
+        "G007-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "REE 590",
+      "courseTitle": "Sel Topics: Ren Energy for Water Desal",
+      "date": "2027-01-03",
+      "weekday": "SUN",
+      "dayLabel": "SUN 3rd JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 3,
+      "rooms": [
+        "G008-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "PHYS 102 / PHYS 126 / PHYS 106",
+      "courseTitle": "Introduction to Electromagnetism / Introduction to Electromagnetism for Eng",
+      "date": "2027-01-03",
+      "weekday": "SUN",
+      "dayLabel": "SUN 3rd JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 3,
+      "studentCount": 23,
+      "rooms": [
+        "G035-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "CSAI 251",
+      "courseTitle": "Algorithm Design and Analysis",
+      "date": "2027-01-03",
+      "weekday": "SUN",
+      "dayLabel": "SUN 3rd JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 36,
+      "rooms": [
+        "G011-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "CSAI 101 / CSAI 111",
+      "courseTitle": "Fundamentals of Programming",
+      "date": "2027-01-03",
+      "weekday": "SUN",
+      "dayLabel": "SUN 3rd JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 9,
+      "studentCount": 541,
+      "rooms": [
+        "G011-B",
+        "G019-B",
+        "G006-B",
+        "G025-B",
+        "G033"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "ENV 411 / ENV 510",
+      "courseTitle": "Process Synthesis and Simulation",
+      "date": "2027-01-03",
+      "weekday": "SUN",
+      "dayLabel": "SUN 3rd JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 2,
+      "studentCount": 15,
+      "rooms": [
+        "G004-D"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "REE 208 / SPC 228",
+      "courseTitle": "Engineering Dynamics",
+      "date": "2027-01-03",
+      "weekday": "SUN",
+      "dayLabel": "SUN 3rd JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 2,
+      "studentCount": 58,
+      "rooms": [
+        "G038-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "REE 320 / SPC 302",
+      "courseTitle": "Advanced Control Systems",
+      "date": "2027-01-03",
+      "weekday": "SUN",
+      "dayLabel": "SUN 3rd JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 2,
+      "studentCount": 36,
+      "rooms": [
+        "G035-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "BMS 332",
+      "courseTitle": "Drug Discovery & Development",
+      "date": "2027-01-03",
+      "weekday": "SUN",
+      "dayLabel": "SUN 3rd JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 19,
+      "rooms": [
+        "G004-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "CIE 455",
+      "courseTitle": "Neural Networks and Deep Learning",
+      "date": "2027-01-03",
+      "weekday": "SUN",
+      "dayLabel": "SUN 3rd JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 48,
+      "rooms": [
+        "G006-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "ECON 315",
+      "courseTitle": "Intermediate Macroeconomic Theory",
+      "date": "2027-01-03",
+      "weekday": "SUN",
+      "dayLabel": "SUN 3rd JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 25,
+      "rooms": [
+        "G005-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "MKTG 101",
+      "courseTitle": "Principles of Marketing",
+      "date": "2027-01-03",
+      "weekday": "SUN",
+      "dayLabel": "SUN 3rd JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 123,
+      "rooms": [
+        "G033-B",
+        "G038-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "NANOSC 415",
+      "courseTitle": "Elect & Mag Properties of Nano Materials",
+      "date": "2027-01-03",
+      "weekday": "SUN",
+      "dayLabel": "SUN 3rd JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 4,
+      "rooms": [
+        "G008-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SCHN 405",
+      "courseTitle": "Logistics Management",
+      "date": "2027-01-03",
+      "weekday": "SUN",
+      "dayLabel": "SUN 3rd JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 5,
+      "rooms": [
+        "G006-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "NANENG 410",
+      "courseTitle": "Real-Time Embedded System & MicroCnt Des",
+      "date": "2027-01-04",
+      "weekday": "MON",
+      "dayLabel": "MON 4th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 49,
+      "rooms": [
+        "G033-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "CIE 328",
+      "courseTitle": "Electromagnetic Fields and Waves I",
+      "date": "2027-01-04",
+      "weekday": "MON",
+      "dayLabel": "MON 4th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 67,
+      "rooms": [
+        "G011-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "PHYS 453",
+      "courseTitle": "Gravity & General Relativity",
+      "date": "2027-01-04",
+      "weekday": "MON",
+      "dayLabel": "MON 4th JAN",
+      "time": "09:00-13:00",
+      "start": "09:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 8,
+      "rooms": [
+        "S16-B2"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "CHEM 201",
+      "courseTitle": "Organic Chemistry",
+      "date": "2027-01-04",
+      "weekday": "MON",
+      "dayLabel": "MON 4th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 40,
+      "rooms": [
+        "G006-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "DSAI 427",
+      "courseTitle": "Big Data Analytics",
+      "date": "2027-01-04",
+      "weekday": "MON",
+      "dayLabel": "MON 4th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 17,
+      "rooms": [
+        "G006-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "MATH 202",
+      "courseTitle": "Ordinary Differential Equations",
+      "date": "2027-01-04",
+      "weekday": "MON",
+      "dayLabel": "MON 4th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 2,
+      "studentCount": 188,
+      "rooms": [
+        "G019-B",
+        "G025-B"
+      ],
+      "sectionRoomDetails": [
+        {
+          "section": "1",
+          "rooms": [
+            {
+              "name": "G019-B",
+              "studentCount": 94
+            },
+            {
+              "name": "G025-B",
+              "studentCount": 33
+            }
+          ]
+        },
+        {
+          "section": "2",
+          "rooms": [
+            {
+              "name": "G025-B",
+              "studentCount": 61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseCode": "MATH 302",
+      "courseTitle": "Partial Differential Equations",
+      "date": "2027-01-04",
+      "weekday": "MON",
+      "dayLabel": "MON 4th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 2,
+      "studentCount": 96,
+      "rooms": [
+        "G011-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SCH 273",
+      "courseTitle": "Cognitive Psychology",
+      "date": "2027-01-04",
+      "weekday": "MON",
+      "dayLabel": "MON 4th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 16,
+      "rooms": [
+        "G007-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "BMS 301",
+      "courseTitle": "Molecular Biology",
+      "date": "2027-01-04",
+      "weekday": "MON",
+      "dayLabel": "MON 4th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 14,
+      "rooms": [
+        "G007-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "CSAI 202",
+      "courseTitle": "Introduction to Database Systems",
+      "date": "2027-01-04",
+      "weekday": "MON",
+      "dayLabel": "MON 4th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 3,
+      "studentCount": 454,
+      "rooms": [
+        "F005-F",
+        "G006-B",
+        "G025-B"
+      ],
+      "sectionRoomDetails": [
+        {
+          "section": "1",
+          "rooms": [
+            {
+              "name": "F005-F",
+              "studentCount": 162
+            }
+          ]
+        },
+        {
+          "section": "2",
+          "rooms": [
+            {
+              "name": "F005-F",
+              "studentCount": 65
+            },
+            {
+              "name": "G006-B",
+              "studentCount": 82
+            }
+          ]
+        },
+        {
+          "section": "3",
+          "rooms": [
+            {
+              "name": "G006-B",
+              "studentCount": 32
+            },
+            {
+              "name": "G025-B",
+              "studentCount": 113
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseCode": "PHYS 105",
+      "courseTitle": "Intro to Classical Mechanics for Enginee",
+      "date": "2027-01-04",
+      "weekday": "MON",
+      "dayLabel": "MON 4th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 4,
+      "studentCount": 399,
+      "rooms": [
+        "S006-F",
+        "G011-B",
+        "G019-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "FINC 101",
+      "courseTitle": "Financial Accounting",
+      "date": "2027-01-04",
+      "weekday": "MON",
+      "dayLabel": "MON 4th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 132,
+      "rooms": [
+        "G006-B",
+        "G011-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "NANENG 431 / NANENG 530",
+      "courseTitle": "Computational Photonics / Applied Computational Photonics",
+      "date": "2027-01-04",
+      "weekday": "MON",
+      "dayLabel": "MON 4th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 2,
+      "studentCount": 18,
+      "rooms": [
+        "G004-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "CIE 205",
+      "courseTitle": "Data Structures and Algorithm Analysis",
+      "date": "2027-01-05",
+      "weekday": "TUE",
+      "dayLabel": "TUE 5th JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 2,
+      "studentCount": 92,
+      "rooms": [
+        "G006-B",
+        "G011-B"
+      ],
+      "sectionRoomDetails": [
+        {
+          "section": "1",
+          "rooms": [
+            {
+              "name": "G006-B",
+              "studentCount": 46
+            },
+            {
+              "name": "G011-B",
+              "studentCount": 21
+            }
+          ]
+        },
+        {
+          "section": "2",
+          "rooms": [
+            {
+              "name": "G011-B",
+              "studentCount": 25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseCode": "ENGR 105",
+      "courseTitle": "Engineering Thermodynamics",
+      "date": "2027-01-05",
+      "weekday": "TUE",
+      "dayLabel": "TUE 5th JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 1,
+      "studentCount": 24,
+      "rooms": [
+        "G035-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "MATH 306",
+      "courseTitle": "Numerical Analysis",
+      "date": "2027-01-05",
+      "weekday": "TUE",
+      "dayLabel": "TUE 5th JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 1,
+      "studentCount": 49,
+      "rooms": [
+        "G019-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "MATH 404",
+      "courseTitle": "Linear and Non-linear Programming",
+      "date": "2027-01-05",
+      "weekday": "TUE",
+      "dayLabel": "TUE 5th JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 1,
+      "studentCount": 76,
+      "rooms": [
+        "G025-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "PHYS 104",
+      "courseTitle": "Physics 2",
+      "date": "2027-01-05",
+      "weekday": "TUE",
+      "dayLabel": "TUE 5th JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 1,
+      "studentCount": 132,
+      "rooms": [
+        "G033",
+        "G038"
+      ],
+      "sectionRoomDetails": [
+        {
+          "section": "1",
+          "rooms": [
+            {
+              "name": "G033",
+              "studentCount": 66
+            },
+            {
+              "name": "G038",
+              "studentCount": 66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseCode": "SW 302",
+      "courseTitle": "User Interface Development",
+      "date": "2027-01-05",
+      "weekday": "TUE",
+      "dayLabel": "TUE 5th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 68,
+      "rooms": [
+        "G011-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "IT 308",
+      "courseTitle": "Cloud Computing Architecture",
+      "date": "2027-01-05",
+      "weekday": "TUE",
+      "dayLabel": "TUE 5th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 4,
+      "rooms": [
+        "F011"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "PHYS 430",
+      "courseTitle": "Quantum Mechanic III",
+      "date": "2027-01-05",
+      "weekday": "TUE",
+      "dayLabel": "TUE 5th JAN",
+      "time": "08:30-12:30",
+      "start": "08:30",
+      "end": "12:30",
+      "sectionCount": 1,
+      "studentCount": 7,
+      "rooms": [
+        "S16-B2"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "ENV 440 / ENV 520",
+      "courseTitle": "Advanced Separation Processes / Separation Processes",
+      "date": "2027-01-05",
+      "weekday": "TUE",
+      "dayLabel": "TUE 5th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 2,
+      "studentCount": 17,
+      "rooms": [
+        "G007-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "PHYS 224",
+      "courseTitle": "Introduction to Modern Physics for Engin",
+      "date": "2027-01-05",
+      "weekday": "TUE",
+      "dayLabel": "TUE 5th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 34,
+      "rooms": [
+        "G011-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SCH 110 / SCH 110 (BUS)",
+      "courseTitle": "Creativity and Innovation",
+      "date": "2027-01-05",
+      "weekday": "TUE",
+      "dayLabel": "TUE 5th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 2,
+      "studentCount": 73,
+      "rooms": [
+        "G006-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SCHN 401",
+      "courseTitle": "Production Planning Proc & Supp Mgt",
+      "date": "2027-01-05",
+      "weekday": "TUE",
+      "dayLabel": "TUE 5th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 3,
+      "rooms": [
+        "G008-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SW 403",
+      "courseTitle": "AI in Modern Software Engineering",
+      "date": "2027-01-05",
+      "weekday": "TUE",
+      "dayLabel": "TUE 5th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 8,
+      "rooms": [
+        "G004-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SWHCI 401",
+      "courseTitle": "Human Information Processing and AI",
+      "date": "2027-01-05",
+      "weekday": "TUE",
+      "dayLabel": "TUE 5th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 2,
+      "rooms": [
+        "G006-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "BENT 305",
+      "courseTitle": "Entrepreneurial Finance",
+      "date": "2027-01-05",
+      "weekday": "TUE",
+      "dayLabel": "TUE 5th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 15,
+      "rooms": [
+        "G007-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "BGEN 110",
+      "courseTitle": "Foundations of Statistical Inference",
+      "date": "2027-01-05",
+      "weekday": "TUE",
+      "dayLabel": "TUE 5th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 48,
+      "rooms": [
+        "G006-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "ENV 224",
+      "courseTitle": "Ecology for Environmental Engineers",
+      "date": "2027-01-05",
+      "weekday": "TUE",
+      "dayLabel": "TUE 5th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 18,
+      "rooms": [
+        "G004-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "IT 402",
+      "courseTitle": "Fundamentals of Cybersecurity&Encryption",
+      "date": "2027-01-05",
+      "weekday": "TUE",
+      "dayLabel": "TUE 5th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 6,
+      "rooms": [
+        "G005-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "BMS 327",
+      "courseTitle": "Neurobiology and Practicum",
+      "date": "2027-01-05",
+      "weekday": "TUE",
+      "dayLabel": "TUE 5th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 6,
+      "rooms": [
+        "G008-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "CHEM 103",
+      "courseTitle": "Introduction to Chemistry for Engineers",
+      "date": "2027-01-05",
+      "weekday": "TUE",
+      "dayLabel": "TUE 5th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 4,
+      "studentCount": 367,
+      "rooms": [
+        "G006-B",
+        "G011-B",
+        "G019-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "DSAI 203",
+      "courseTitle": "Data Integration and Visualization",
+      "date": "2027-01-05",
+      "weekday": "TUE",
+      "dayLabel": "TUE 5th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 3,
+      "studentCount": 339,
+      "rooms": [
+        "G025-B",
+        "G033-B",
+        "G038-B"
+      ],
+      "sectionRoomDetails": [
+        {
+          "section": "1",
+          "rooms": [
+            {
+              "name": "G025-B",
+              "studentCount": 106
+            }
+          ]
+        },
+        {
+          "section": "2",
+          "rooms": [
+            {
+              "name": "G025-B",
+              "studentCount": 7
+            },
+            {
+              "name": "G033-B",
+              "studentCount": 113
+            },
+            {
+              "name": "G038-B",
+              "studentCount": 2
+            }
+          ]
+        },
+        {
+          "section": "3",
+          "rooms": [
+            {
+              "name": "G038-B",
+              "studentCount": 111
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseCode": "SCH 262",
+      "courseTitle": "Engineering Project Economics",
+      "date": "2027-01-05",
+      "weekday": "TUE",
+      "dayLabel": "TUE 5th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 25,
+      "rooms": [
+        "G035-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "BMS 333",
+      "courseTitle": "Drug Design & Computational Chemistry",
+      "date": "2027-01-09",
+      "weekday": "SAT",
+      "dayLabel": "SAT 9th JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 1,
+      "studentCount": 7,
+      "rooms": [
+        "G008"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "CIE 478",
+      "courseTitle": "Advanced Wireless Communication Systems",
+      "date": "2027-01-09",
+      "weekday": "SAT",
+      "dayLabel": "SAT 9th JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 1,
+      "studentCount": 40,
+      "rooms": [
+        "G011"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "MATH 205",
+      "courseTitle": "Discrete Mathematics for CS",
+      "date": "2027-01-09",
+      "weekday": "SAT",
+      "dayLabel": "SAT 9th JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 1,
+      "studentCount": 55,
+      "rooms": [
+        "G026",
+        "G032"
+      ],
+      "sectionRoomDetails": [
+        {
+          "section": "1",
+          "rooms": [
+            {
+              "name": "G026",
+              "studentCount": 28
+            },
+            {
+              "name": "G032",
+              "studentCount": 27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseCode": "MATH 201",
+      "courseTitle": "Linear Algebra and Vector Geometry",
+      "date": "2027-01-09",
+      "weekday": "SAT",
+      "dayLabel": "SAT 9th JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 3,
+      "studentCount": 263,
+      "rooms": [
+        "F005-F",
+        "S006-F"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "CSAI 102 / CSAI 112",
+      "courseTitle": "Digital Logic and Computer Architecture",
+      "date": "2027-01-09",
+      "weekday": "SAT",
+      "dayLabel": "SAT 9th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 8,
+      "studentCount": 531,
+      "rooms": [
+        "G006-B",
+        "G011-B",
+        "G019-B",
+        "G025-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "NANENG 512",
+      "courseTitle": "Applied Digital Control and Drives",
+      "date": "2027-01-09",
+      "weekday": "SAT",
+      "dayLabel": "SAT 9th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 50,
+      "rooms": [
+        "G033-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SW 402",
+      "courseTitle": "Software Project Management",
+      "date": "2027-01-09",
+      "weekday": "SAT",
+      "dayLabel": "SAT 9th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 89,
+      "rooms": [
+        "G038-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "CIE 452",
+      "courseTitle": "Advanced Computer Architecture",
+      "date": "2027-01-09",
+      "weekday": "SAT",
+      "dayLabel": "SAT 9th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 17,
+      "rooms": [
+        "G005-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "FINC 405",
+      "courseTitle": "Derivative Securities",
+      "date": "2027-01-09",
+      "weekday": "SAT",
+      "dayLabel": "SAT 9th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 10,
+      "rooms": [
+        "G007-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "ITNS 404",
+      "courseTitle": "Net Performance Monitoring&Trbl-shooting",
+      "date": "2027-01-09",
+      "weekday": "SAT",
+      "dayLabel": "SAT 9th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 9,
+      "rooms": [
+        "G008-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "BENT 301",
+      "courseTitle": "Advanced and Corporate Entrepreneurship",
+      "date": "2027-01-09",
+      "weekday": "SAT",
+      "dayLabel": "SAT 9th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 16,
+      "rooms": [
+        "G009-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "BLAW 301",
+      "courseTitle": "Negotiations and Dispute Settlement",
+      "date": "2027-01-09",
+      "weekday": "SAT",
+      "dayLabel": "SAT 9th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 16,
+      "rooms": [
+        "G005-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "BMS 459",
+      "courseTitle": "Pathogens & Host Defense",
+      "date": "2027-01-09",
+      "weekday": "SAT",
+      "dayLabel": "SAT 9th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 26,
+      "rooms": [
+        "G036-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "ECON 310 / ECON 301",
+      "courseTitle": "Intermediate Microeconomic Theory",
+      "date": "2027-01-09",
+      "weekday": "SAT",
+      "dayLabel": "SAT 9th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 2,
+      "studentCount": 27,
+      "rooms": [
+        "G033-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "ENGR 346",
+      "courseTitle": "Heat Transfer",
+      "date": "2027-01-09",
+      "weekday": "SAT",
+      "dayLabel": "SAT 9th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 41,
+      "rooms": [
+        "G006-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "ENV 204",
+      "courseTitle": "Environmental Engineering Chemistry",
+      "date": "2027-01-09",
+      "weekday": "SAT",
+      "dayLabel": "SAT 9th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 19,
+      "rooms": [
+        "G004-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "PHYS 323",
+      "courseTitle": "Quantum Mechanics I",
+      "date": "2027-01-09",
+      "weekday": "SAT",
+      "dayLabel": "SAT 9th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 17,
+      "rooms": [
+        "G008-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "CIE 206",
+      "courseTitle": "Database Management System",
+      "date": "2027-01-10",
+      "weekday": "SUN",
+      "dayLabel": "SUN 10th JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 2,
+      "studentCount": 96,
+      "rooms": [
+        "G006-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "CSAI 203",
+      "courseTitle": "Introduction to Software Engineering",
+      "date": "2027-01-10",
+      "weekday": "SUN",
+      "dayLabel": "SUN 10th JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 3,
+      "studentCount": 269,
+      "rooms": [
+        "G011-B",
+        "G019-B",
+        "G025-B"
+      ],
+      "sectionRoomDetails": [
+        {
+          "section": "1",
+          "rooms": [
+            {
+              "name": "G011-B",
+              "studentCount": 90
+            },
+            {
+              "name": "G019-B",
+              "studentCount": 27
+            }
+          ]
+        },
+        {
+          "section": "2",
+          "rooms": [
+            {
+              "name": "G019-B",
+              "studentCount": 38
+            }
+          ]
+        },
+        {
+          "section": "3",
+          "rooms": [
+            {
+              "name": "G019-B",
+              "studentCount": 25
+            },
+            {
+              "name": "G025-B",
+              "studentCount": 89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseCode": "CSCI 101",
+      "courseTitle": "Introduction to Computer Science",
+      "date": "2027-01-10",
+      "weekday": "SUN",
+      "dayLabel": "SUN 10th JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 5,
+      "studentCount": 409,
+      "rooms": [
+        "F005-F",
+        "S006-F"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "MATH 301",
+      "courseTitle": "Probability and Statistics",
+      "date": "2027-01-10",
+      "weekday": "SUN",
+      "dayLabel": "SUN 10th JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 1,
+      "studentCount": 38,
+      "rooms": [
+        "G033-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "CIE 237",
+      "courseTitle": "Probability and Stochastic Processes",
+      "date": "2027-01-10",
+      "weekday": "SUN",
+      "dayLabel": "SUN 10th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 18,
+      "rooms": [
+        "G004-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "ENV 207",
+      "courseTitle": "Material and Energy Balances",
+      "date": "2027-01-10",
+      "weekday": "SUN",
+      "dayLabel": "SUN 10th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 15,
+      "rooms": [
+        "G007-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "MKTG 301",
+      "courseTitle": "Market research and consumer behavior",
+      "date": "2027-01-10",
+      "weekday": "SUN",
+      "dayLabel": "SUN 10th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 15,
+      "rooms": [
+        "G008-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "NANENG 335 / NANOSC 413",
+      "courseTitle": "Introduction to Photonics / Photonics & Laser Physics",
+      "date": "2027-01-10",
+      "weekday": "SUN",
+      "dayLabel": "SUN 10th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 2,
+      "studentCount": 40,
+      "rooms": [
+        "G006-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SCH 275 / SCH 280",
+      "courseTitle": "The Creative Mind",
+      "date": "2027-01-10",
+      "weekday": "SUN",
+      "dayLabel": "SUN 10th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 2,
+      "studentCount": 37,
+      "rooms": [
+        "G011-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "REE 306 / SPC 206",
+      "courseTitle": "Advanced Thermodynamics",
+      "date": "2027-01-10",
+      "weekday": "SUN",
+      "dayLabel": "SUN 10th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 2,
+      "studentCount": 14,
+      "rooms": [
+        "G006-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "ENGL 004 (sections 1-11)",
+      "courseTitle": "Remedial English 3 - sections 1-11",
+      "date": "2027-01-10",
+      "weekday": "SUN",
+      "dayLabel": "SUN 10th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 11,
+      "studentCount": 330,
+      "rooms": [
+        "G006-B",
+        "G011-B",
+        "G019-B",
+        "G036-B",
+        "G004-C",
+        "G005-C",
+        "G008-B",
+        "G009-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "NANENG 435 / NANENG 511",
+      "courseTitle": "Nanophotonics / Nano Photonics",
+      "date": "2027-01-10",
+      "weekday": "SUN",
+      "dayLabel": "SUN 10th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 2,
+      "studentCount": 30,
+      "rooms": [
+        "G035-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "REE 561",
+      "courseTitle": "Special Topics in Adv Thermal Systems",
+      "date": "2027-01-10",
+      "weekday": "SUN",
+      "dayLabel": "SUN 10th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 10,
+      "rooms": [
+        "G008-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "REE 311",
+      "courseTitle": "Electric Machines",
+      "date": "2027-01-10",
+      "weekday": "SUN",
+      "dayLabel": "SUN 10th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 11,
+      "rooms": [
+        "G007-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "CSAI 301",
+      "courseTitle": "Artificial Intelligence",
+      "date": "2027-01-10",
+      "weekday": "SUN",
+      "dayLabel": "SUN 10th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 170,
+      "rooms": [
+        "G011-B",
+        "G019-B"
+      ],
+      "sectionRoomDetails": [
+        {
+          "section": "1",
+          "rooms": [
+            {
+              "name": "G011-B",
+              "studentCount": 85
+            },
+            {
+              "name": "G019-B",
+              "studentCount": 85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseCode": "ENV 306",
+      "courseTitle": "Engineering Hydrology",
+      "date": "2027-01-10",
+      "weekday": "SUN",
+      "dayLabel": "SUN 10th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 5,
+      "rooms": [
+        "G035-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "REE 310 / SPC 210",
+      "courseTitle": "Control Systems",
+      "date": "2027-01-10",
+      "weekday": "SUN",
+      "dayLabel": "SUN 10th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 2,
+      "studentCount": 15,
+      "rooms": [
+        "G036-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SWAPD 301",
+      "courseTitle": "Software Systems Requirements Dev",
+      "date": "2027-01-10",
+      "weekday": "SUN",
+      "dayLabel": "SUN 10th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 44,
+      "rooms": [
+        "G006-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "NANENG 202",
+      "courseTitle": "Digital Logic",
+      "date": "2027-01-11",
+      "weekday": "MON",
+      "dayLabel": "MON 11th JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 1,
+      "studentCount": 37,
+      "rooms": [
+        "G004-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "CSAI 252",
+      "courseTitle": "Introduction to Computer Networks",
+      "date": "2027-01-11",
+      "weekday": "MON",
+      "dayLabel": "MON 11th JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 4,
+      "studentCount": 527,
+      "rooms": [
+        "G006-B",
+        "G011-B",
+        "G019-B",
+        "G025-B",
+        "G033-B",
+        "G038-B"
+      ],
+      "sectionRoomDetails": [
+        {
+          "section": "3",
+          "rooms": [
+            {
+              "name": "G006-B",
+              "studentCount": 88
+            },
+            {
+              "name": "G011-B",
+              "studentCount": 34
+            }
+          ]
+        },
+        {
+          "section": "4",
+          "rooms": [
+            {
+              "name": "G011-B",
+              "studentCount": 54
+            },
+            {
+              "name": "G019-B",
+              "studentCount": 88
+            },
+            {
+              "name": "G025-B",
+              "studentCount": 23
+            }
+          ]
+        },
+        {
+          "section": "6",
+          "rooms": [
+            {
+              "name": "G025-B",
+              "studentCount": 65
+            },
+            {
+              "name": "G033-B",
+              "studentCount": 50
+            }
+          ]
+        },
+        {
+          "section": "7",
+          "rooms": [
+            {
+              "name": "G033-B",
+              "studentCount": 38
+            },
+            {
+              "name": "G038-B",
+              "studentCount": 87
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseCode": "IT 411",
+      "courseTitle": "Enterprise Resources Planning",
+      "date": "2027-01-11",
+      "weekday": "MON",
+      "dayLabel": "MON 11th JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 1,
+      "studentCount": 11,
+      "rooms": [
+        "G035-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "CSAI 205",
+      "courseTitle": "Fundamentals of Circuits and Electronics",
+      "date": "2027-01-11",
+      "weekday": "MON",
+      "dayLabel": "MON 11th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 3,
+      "studentCount": 366,
+      "rooms": [
+        "G006-B",
+        "G011-B",
+        "G019-B"
+      ],
+      "sectionRoomDetails": [
+        {
+          "section": "1",
+          "rooms": [
+            {
+              "name": "G006-B",
+              "studentCount": 121
+            }
+          ]
+        },
+        {
+          "section": "2",
+          "rooms": [
+            {
+              "name": "G006-B",
+              "studentCount": 1
+            },
+            {
+              "name": "G011-B",
+              "studentCount": 122
+            }
+          ]
+        },
+        {
+          "section": "3",
+          "rooms": [
+            {
+              "name": "G019-B",
+              "studentCount": 122
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseCode": "PHYS 316",
+      "courseTitle": "Mathematical Physics I",
+      "date": "2027-01-11",
+      "weekday": "MON",
+      "dayLabel": "MON 11th JAN",
+      "time": "09:00-13:00",
+      "start": "09:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 17,
+      "rooms": [
+        "S16-B2"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "MATH 502",
+      "courseTitle": "Introduction to Optimization",
+      "date": "2027-01-11",
+      "weekday": "MON",
+      "dayLabel": "MON 11th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 19,
+      "rooms": [
+        "G005-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "NANENG 323 / NANENG 421",
+      "courseTitle": "Analog Integrated Circuit Design",
+      "date": "2027-01-11",
+      "weekday": "MON",
+      "dayLabel": "MON 11th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 2,
+      "studentCount": 30,
+      "rooms": [
+        "G035-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "NANENG 313",
+      "courseTitle": "Educational Cleanroom Lab",
+      "date": "2027-01-11",
+      "weekday": "MON",
+      "dayLabel": "MON 11th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 23,
+      "rooms": [
+        "G008-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "NANENG 416",
+      "courseTitle": "VLSI Design Lab",
+      "date": "2027-01-11",
+      "weekday": "MON",
+      "dayLabel": "MON 11th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 25,
+      "rooms": [
+        "G005-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "BMS 435",
+      "courseTitle": "Legal Aspects in Drug Desig Development",
+      "date": "2027-01-11",
+      "weekday": "MON",
+      "dayLabel": "MON 11th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 12,
+      "rooms": [
+        "G004-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "CIE 481",
+      "courseTitle": "Information Security and Encryption",
+      "date": "2027-01-11",
+      "weekday": "MON",
+      "dayLabel": "MON 11th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 56,
+      "rooms": [
+        "G006-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "ITNS 301",
+      "courseTitle": "Network Administration",
+      "date": "2027-01-11",
+      "weekday": "MON",
+      "dayLabel": "MON 11th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 3,
+      "rooms": [
+        "G008-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "NANOSC 403",
+      "courseTitle": "Special Topics in Nanomedicine",
+      "date": "2027-01-11",
+      "weekday": "MON",
+      "dayLabel": "MON 11th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 6,
+      "rooms": [
+        "G005-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SWGCG 301",
+      "courseTitle": "Computer Graphics and Multimedia Systems",
+      "date": "2027-01-11",
+      "weekday": "MON",
+      "dayLabel": "MON 11th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 10,
+      "rooms": [
+        "G007-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "BGEN 201",
+      "courseTitle": "Data Analytics",
+      "date": "2027-01-11",
+      "weekday": "MON",
+      "dayLabel": "MON 11th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 12,
+      "rooms": [
+        "G004-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "ENV 302",
+      "courseTitle": "Environmental Laws and Policies",
+      "date": "2027-01-11",
+      "weekday": "MON",
+      "dayLabel": "MON 11th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 3,
+      "rooms": [
+        "G007-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "BMS 201",
+      "courseTitle": "General Microbiology",
+      "date": "2027-01-12",
+      "weekday": "TUE",
+      "dayLabel": "TUE 12th JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 1,
+      "studentCount": 34,
+      "rooms": [
+        "G035-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "MATH 303",
+      "courseTitle": "Linear and Non-linear Programming for CS",
+      "date": "2027-01-12",
+      "weekday": "TUE",
+      "dayLabel": "TUE 12th JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 1,
+      "studentCount": 113,
+      "rooms": [
+        "G006-B",
+        "G011-B"
+      ],
+      "sectionRoomDetails": [
+        {
+          "section": "1",
+          "rooms": [
+            {
+              "name": "G006-B",
+              "studentCount": 57
+            },
+            {
+              "name": "G011-B",
+              "studentCount": 56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseCode": "REE 202",
+      "courseTitle": "Mechanics of Materials",
+      "date": "2027-01-12",
+      "weekday": "TUE",
+      "dayLabel": "TUE 12th JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 1,
+      "studentCount": 58,
+      "rooms": [
+        "G011-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "REE 432 / REE 532",
+      "courseTitle": "Photovoltaic Systems",
+      "date": "2027-01-12",
+      "weekday": "TUE",
+      "dayLabel": "TUE 12th JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 2,
+      "studentCount": 33,
+      "rooms": [
+        "G011-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "ECON 101",
+      "courseTitle": "Principles of Economics",
+      "date": "2027-01-12",
+      "weekday": "TUE",
+      "dayLabel": "TUE 12th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 131,
+      "rooms": [
+        "G011-B",
+        "G006-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "NANENG 520",
+      "courseTitle": "Advanced Devices",
+      "date": "2027-01-12",
+      "weekday": "TUE",
+      "dayLabel": "TUE 12th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 43,
+      "rooms": [
+        "G019-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "MATSCI 201",
+      "courseTitle": "Fundamental of Materials Sci and Engr",
+      "date": "2027-01-12",
+      "weekday": "TUE",
+      "dayLabel": "TUE 12th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 18,
+      "rooms": [
+        "G005-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "CIE 317",
+      "courseTitle": "Machine Learning",
+      "date": "2027-01-12",
+      "weekday": "TUE",
+      "dayLabel": "TUE 12th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 65,
+      "rooms": [
+        "G006"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "BMS 477",
+      "courseTitle": "The Human Genome & Disease",
+      "date": "2027-01-12",
+      "weekday": "TUE",
+      "dayLabel": "TUE 12th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 30,
+      "rooms": [
+        "G035-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "PHYS 101",
+      "courseTitle": "Introduction to Classical Mechanics",
+      "date": "2027-01-12",
+      "weekday": "TUE",
+      "dayLabel": "TUE 12th JAN",
+      "time": "11:00-14:00",
+      "start": "11:00",
+      "end": "14:00",
+      "sectionCount": 1,
+      "studentCount": 91,
+      "rooms": [
+        "G025-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "PHYS 201",
+      "courseTitle": "Thermodynamics, Wave Motion and Optics",
+      "date": "2027-01-12",
+      "weekday": "TUE",
+      "dayLabel": "TUE 12th JAN",
+      "time": "11:00-14:00",
+      "start": "11:00",
+      "end": "14:00",
+      "sectionCount": 1,
+      "studentCount": 10,
+      "rooms": [
+        "G007-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "REE 490 / REE 534",
+      "courseTitle": "Electric Power Generation, Distribution/ Dis & Ut",
+      "date": "2027-01-12",
+      "weekday": "TUE",
+      "dayLabel": "TUE 12th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 2,
+      "studentCount": 2,
+      "rooms": [
+        "G008-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "FINC 310",
+      "courseTitle": "Corporate Finance",
+      "date": "2027-01-12",
+      "weekday": "TUE",
+      "dayLabel": "TUE 12th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 25,
+      "rooms": [
+        "G005-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "MATH 503",
+      "courseTitle": "Advanced Linear Algebra",
+      "date": "2027-01-12",
+      "weekday": "TUE",
+      "dayLabel": "TUE 12th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 4,
+      "rooms": [
+        "G008-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SCH 264",
+      "courseTitle": "Intro to Entrepreneurship & Small Mangm",
+      "date": "2027-01-12",
+      "weekday": "TUE",
+      "dayLabel": "TUE 12th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 30,
+      "rooms": [
+        "G036-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SCH 277 / SCH 285",
+      "courseTitle": "Positive Psychology",
+      "date": "2027-01-12",
+      "weekday": "TUE",
+      "dayLabel": "TUE 12th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 2,
+      "studentCount": 17,
+      "rooms": [
+        "G006-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SPC 307",
+      "courseTitle": "Aerodynamics",
+      "date": "2027-01-12",
+      "weekday": "TUE",
+      "dayLabel": "TUE 12th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 35,
+      "rooms": [
+        "G035-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SWAPD 451",
+      "courseTitle": "Software Maintenance",
+      "date": "2027-01-12",
+      "weekday": "TUE",
+      "dayLabel": "TUE 12th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 19,
+      "rooms": [
+        "G009-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "ENGR 121",
+      "courseTitle": "Engineering Drawing",
+      "date": "2027-01-12",
+      "weekday": "TUE",
+      "dayLabel": "TUE 12th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 4,
+      "studentCount": 381,
+      "rooms": [
+        "G006-B",
+        "G011-B",
+        "G019-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "MATH 104",
+      "courseTitle": "Linear Algebra",
+      "date": "2027-01-12",
+      "weekday": "TUE",
+      "dayLabel": "TUE 12th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 2,
+      "studentCount": 137,
+      "rooms": [
+        "G025-B",
+        "G033-B"
+      ],
+      "sectionRoomDetails": [
+        {
+          "section": "1",
+          "rooms": [
+            {
+              "name": "G025-B",
+              "studentCount": 69
+            }
+          ]
+        },
+        {
+          "section": "2",
+          "rooms": [
+            {
+              "name": "G033-B",
+              "studentCount": 68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseCode": "NANENG 551",
+      "courseTitle": "Engineering & Computational Mathematics 1",
+      "date": "2027-01-12",
+      "weekday": "TUE",
+      "dayLabel": "TUE 12th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 6,
+      "rooms": [
+        "G004-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "NANOSC 305",
+      "courseTitle": "Synthesis/Fabrication of Nanomaterials",
+      "date": "2027-01-12",
+      "weekday": "TUE",
+      "dayLabel": "TUE 12th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 5,
+      "rooms": [
+        "G005-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SCH 211",
+      "courseTitle": "Professional Ethics and Legal Aspects",
+      "date": "2027-01-12",
+      "weekday": "TUE",
+      "dayLabel": "TUE 12th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 3,
+      "studentCount": 216,
+      "rooms": [
+        "F005-F",
+        "S006-F"
+      ],
+      "sectionRoomDetails": [
+        {
+          "section": "1",
+          "rooms": [
+            {
+              "name": "F005-F",
+              "studentCount": 57
+            }
+          ]
+        },
+        {
+          "section": "2",
+          "rooms": [
+            {
+              "name": "F005-F",
+              "studentCount": 51
+            },
+            {
+              "name": "S006-F",
+              "studentCount": 18
+            }
+          ]
+        },
+        {
+          "section": "3",
+          "rooms": [
+            {
+              "name": "S006-F",
+              "studentCount": 90
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseCode": "SPC 436 / SPC 506",
+      "courseTitle": "Computational Fluid Dynamics",
+      "date": "2027-01-12",
+      "weekday": "TUE",
+      "dayLabel": "TUE 12th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 2,
+      "studentCount": 26,
+      "rooms": [
+        "G036-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "CIE 337",
+      "courseTitle": "Communications Theory and Systems",
+      "date": "2027-01-13",
+      "weekday": "WED",
+      "dayLabel": "WED 13th JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 1,
+      "studentCount": 60,
+      "rooms": [
+        "G006-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "ITNS 403",
+      "courseTitle": "Storage Area Networks",
+      "date": "2027-01-13",
+      "weekday": "WED",
+      "dayLabel": "WED 13th JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 1,
+      "studentCount": 10,
+      "rooms": [
+        "G007-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SCH 105 / SCH 105 (BUS)",
+      "courseTitle": "Critical Thinking",
+      "date": "2027-01-13",
+      "weekday": "WED",
+      "dayLabel": "WED 13th JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 4,
+      "studentCount": 99,
+      "rooms": [
+        "G011-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "CIE 227",
+      "courseTitle": "Signals and Systems",
+      "date": "2027-01-13",
+      "weekday": "WED",
+      "dayLabel": "WED 13th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 2,
+      "studentCount": 97,
+      "rooms": [
+        "G006-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "DSAI 403",
+      "courseTitle": "Nature inspired computation",
+      "date": "2027-01-13",
+      "weekday": "WED",
+      "dayLabel": "WED 13th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 91,
+      "rooms": [
+        "G011-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "MATSCI 425",
+      "courseTitle": "Main Group and Transition Metals CHEM",
+      "date": "2027-01-13",
+      "weekday": "WED",
+      "dayLabel": "WED 13th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 5,
+      "rooms": [
+        "G008-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "NANENG 307",
+      "courseTitle": "Physics of Electronic Materials",
+      "date": "2027-01-13",
+      "weekday": "WED",
+      "dayLabel": "WED 13th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 10,
+      "rooms": [
+        "G004-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "REE 425 / REE 515",
+      "courseTitle": "Thermal Solar Energy",
+      "date": "2027-01-13",
+      "weekday": "WED",
+      "dayLabel": "WED 13th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 2,
+      "studentCount": 30,
+      "rooms": [
+        "G035-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SUST 320",
+      "courseTitle": "Feasibility & Sust Analysis for Projects",
+      "date": "2027-01-13",
+      "weekday": "WED",
+      "dayLabel": "WED 13th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 27,
+      "rooms": [
+        "G036-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SW 252",
+      "courseTitle": "Embedded Systems",
+      "date": "2027-01-13",
+      "weekday": "WED",
+      "dayLabel": "WED 13th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 66,
+      "rooms": [
+        "G019-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "BMS 428",
+      "courseTitle": "Pathology",
+      "date": "2027-01-13",
+      "weekday": "WED",
+      "dayLabel": "WED 13th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 5,
+      "rooms": [
+        "G008-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "BMS 202",
+      "courseTitle": "Cell Biology",
+      "date": "2027-01-13",
+      "weekday": "WED",
+      "dayLabel": "WED 13th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 37,
+      "rooms": [
+        "G038-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "BMS 430",
+      "courseTitle": "Advanced Strategies in Organic Synthesis",
+      "date": "2027-01-13",
+      "weekday": "WED",
+      "dayLabel": "WED 13th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 5,
+      "rooms": [
+        "G008-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "BMS 434",
+      "courseTitle": "Epigenetics in Health and Disease",
+      "date": "2027-01-13",
+      "weekday": "WED",
+      "dayLabel": "WED 13th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 27,
+      "rooms": [
+        "G036-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "CIE 427",
+      "courseTitle": "Big Data Analytics",
+      "date": "2027-01-13",
+      "weekday": "WED",
+      "dayLabel": "WED 13th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 54,
+      "rooms": [
+        "G025-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "DSAI 104",
+      "courseTitle": "Knowledge Representation and Reasoning",
+      "date": "2027-01-13",
+      "weekday": "WED",
+      "dayLabel": "WED 13th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 26,
+      "rooms": [
+        "G005-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "ENGR 207",
+      "courseTitle": "Fluid Mechanics",
+      "date": "2027-01-13",
+      "weekday": "WED",
+      "dayLabel": "WED 13th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 2,
+      "studentCount": 75,
+      "rooms": [
+        "G011-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "ENV 320",
+      "courseTitle": "Water Treatment Engineering",
+      "date": "2027-01-13",
+      "weekday": "WED",
+      "dayLabel": "WED 13th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 5,
+      "rooms": [
+        "G008-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "ENV 454 / ENV 524",
+      "courseTitle": "Life Cycle Assessment",
+      "date": "2027-01-13",
+      "weekday": "WED",
+      "dayLabel": "WED 13th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 2,
+      "studentCount": 15,
+      "rooms": [
+        "G007-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "MGMT 101",
+      "courseTitle": "Principles of Management",
+      "date": "2027-01-13",
+      "weekday": "WED",
+      "dayLabel": "WED 13th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 137,
+      "rooms": [
+        "G019-B",
+        "G006-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SWAPD 402",
+      "courseTitle": "Mobile Application Development",
+      "date": "2027-01-13",
+      "weekday": "WED",
+      "dayLabel": "WED 13th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 23,
+      "rooms": [
+        "G033-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "ENGR 102",
+      "courseTitle": "Introduction to Engineering Design",
+      "date": "2027-01-13",
+      "weekday": "WED",
+      "dayLabel": "WED 13th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 4,
+      "studentCount": 369,
+      "rooms": [
+        "G011-B",
+        "G019-B",
+        "G006-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "FINC 201",
+      "courseTitle": "Principles of Finance",
+      "date": "2027-01-13",
+      "weekday": "WED",
+      "dayLabel": "WED 13th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 19,
+      "rooms": [
+        "G007"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "PHYS 204",
+      "courseTitle": "Analytical Mechanics",
+      "date": "2027-01-13",
+      "weekday": "WED",
+      "dayLabel": "WED 13th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 9,
+      "rooms": [
+        "G006-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SCH 261",
+      "courseTitle": "Engineering Project Management",
+      "date": "2027-01-13",
+      "weekday": "WED",
+      "dayLabel": "WED 13th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 3,
+      "studentCount": 295,
+      "rooms": [
+        "G033",
+        "G025",
+        "G038"
+      ],
+      "sectionRoomDetails": [
+        {
+          "section": "1",
+          "rooms": [
+            {
+              "name": "G025",
+              "studentCount": 1
+            },
+            {
+              "name": "G033",
+              "studentCount": 99
+            }
+          ]
+        },
+        {
+          "section": "2",
+          "rooms": [
+            {
+              "name": "G025",
+              "studentCount": 97
+            },
+            {
+              "name": "G038",
+              "studentCount": 3
+            }
+          ]
+        },
+        {
+          "section": "3",
+          "rooms": [
+            {
+              "name": "G038",
+              "studentCount": 95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseCode": "MGMT 201",
+      "courseTitle": "Human Resources Management",
+      "date": "2027-01-14",
+      "weekday": "THU",
+      "dayLabel": "THU 14th JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 1,
+      "studentCount": 60,
+      "rooms": [
+        "G011-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "NANENG 440 / NANENG 523",
+      "courseTitle": "Nanofabrication Vacuum and Equipment Tech",
+      "date": "2027-01-14",
+      "weekday": "THU",
+      "dayLabel": "THU 14th JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 2,
+      "studentCount": 33,
+      "rooms": [
+        "G005"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "NANOSC 405",
+      "courseTitle": "Nanopharmaceutics",
+      "date": "2027-01-14",
+      "weekday": "THU",
+      "dayLabel": "THU 14th JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 1,
+      "studentCount": 5,
+      "rooms": [
+        "G004-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SW 301",
+      "courseTitle": "Object-Oriented Analysis and Design",
+      "date": "2027-01-14",
+      "weekday": "THU",
+      "dayLabel": "THU 14th JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 1,
+      "studentCount": 65,
+      "rooms": [
+        "G019-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "CHEM 101",
+      "courseTitle": "Chemistry I",
+      "date": "2027-01-14",
+      "weekday": "THU",
+      "dayLabel": "THU 14th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 82,
+      "rooms": [
+        "G006-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "ENV 506",
+      "courseTitle": "Water Desalination",
+      "date": "2027-01-14",
+      "weekday": "THU",
+      "dayLabel": "THU 14th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 1,
+      "rooms": [
+        "F014"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SCH 163",
+      "courseTitle": "Sustain, Social & Ethical Issues in Comp",
+      "date": "2027-01-14",
+      "weekday": "THU",
+      "dayLabel": "THU 14th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 32,
+      "rooms": [
+        "G036-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SCH 266 / SCH 283",
+      "courseTitle": "Sociology",
+      "date": "2027-01-14",
+      "weekday": "THU",
+      "dayLabel": "THU 14th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 2,
+      "studentCount": 104,
+      "rooms": [
+        "G011-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SCHN 410",
+      "courseTitle": "Information Technology in Supply Chains",
+      "date": "2027-01-14",
+      "weekday": "THU",
+      "dayLabel": "THU 14th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 2,
+      "rooms": [
+        "G007-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "BMS 304",
+      "courseTitle": "Biomedical Scientific Ethics & Safety",
+      "date": "2027-01-14",
+      "weekday": "THU",
+      "dayLabel": "THU 14th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 25,
+      "rooms": [
+        "G005-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "BTEM 301",
+      "courseTitle": "Management of Innovation",
+      "date": "2027-01-14",
+      "weekday": "THU",
+      "dayLabel": "THU 14th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 15,
+      "rooms": [
+        "G007-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "CIE 404",
+      "courseTitle": "Cloud Computing Technology",
+      "date": "2027-01-14",
+      "weekday": "THU",
+      "dayLabel": "THU 14th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 63,
+      "rooms": [
+        "G006-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "DSAI 456",
+      "courseTitle": "Speech Recognition",
+      "date": "2027-01-14",
+      "weekday": "THU",
+      "dayLabel": "THU 14th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 96,
+      "rooms": [
+        "G011-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "FINC 305",
+      "courseTitle": "Financial Reporting",
+      "date": "2027-01-14",
+      "weekday": "THU",
+      "dayLabel": "THU 14th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 26,
+      "rooms": [
+        "G035-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "NANENG 308",
+      "courseTitle": "Solid State Devices",
+      "date": "2027-01-14",
+      "weekday": "THU",
+      "dayLabel": "THU 14th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 28,
+      "rooms": [
+        "G036-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SCHN 305",
+      "courseTitle": "Models and Business Simulations",
+      "date": "2027-01-14",
+      "weekday": "THU",
+      "dayLabel": "THU 14th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 12,
+      "rooms": [
+        "G004-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SPC 477 / SPC 577",
+      "courseTitle": "Airports and Airlines Management",
+      "date": "2027-01-14",
+      "weekday": "THU",
+      "dayLabel": "THU 14th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 2,
+      "studentCount": 42,
+      "rooms": [
+        "G038-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "CSAI 201",
+      "courseTitle": "Data Structures",
+      "date": "2027-01-14",
+      "weekday": "THU",
+      "dayLabel": "THU 14th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 4,
+      "studentCount": 458,
+      "rooms": [
+        "F005-F",
+        "S006-F"
+      ],
+      "sectionRoomDetails": [
+        {
+          "section": "1",
+          "rooms": [
+            {
+              "name": "F005-F",
+              "studentCount": 93
+            }
+          ]
+        },
+        {
+          "section": "2",
+          "rooms": [
+            {
+              "name": "F005-F",
+              "studentCount": 136
+            },
+            {
+              "name": "S006-F",
+              "studentCount": 25
+            }
+          ]
+        },
+        {
+          "section": "3",
+          "rooms": [
+            {
+              "name": "S006-F",
+              "studentCount": 119
+            }
+          ]
+        },
+        {
+          "section": "4",
+          "rooms": [
+            {
+              "name": "S006-F",
+              "studentCount": 85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseCode": "BMS 474",
+      "courseTitle": "Genomics and Data Sciences",
+      "date": "2027-01-14",
+      "weekday": "THU",
+      "dayLabel": "THU 14th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 10,
+      "rooms": [
+        "G008-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "ENV 458 / ENV 558",
+      "courseTitle": "Energy from Biomass and Waste",
+      "date": "2027-01-14",
+      "weekday": "THU",
+      "dayLabel": "THU 14th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 8,
+      "rooms": [
+        "G008-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "MATH 102",
+      "courseTitle": "Calculus II",
+      "date": "2027-01-14",
+      "weekday": "THU",
+      "dayLabel": "THU 14th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 64,
+      "rooms": [
+        "G006-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "NANENG 203",
+      "courseTitle": "Electric Circuits",
+      "date": "2027-01-14",
+      "weekday": "THU",
+      "dayLabel": "THU 14th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 36,
+      "rooms": [
+        "G011-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "NANENG 525",
+      "courseTitle": "Optical MEMS",
+      "date": "2027-01-14",
+      "weekday": "THU",
+      "dayLabel": "THU 14th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 7,
+      "rooms": [
+        "G007-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "PHYS 450",
+      "courseTitle": "Computational Physics",
+      "date": "2027-01-14",
+      "weekday": "THU",
+      "dayLabel": "THU 14th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 13,
+      "rooms": [
+        "G004-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "BMS 405",
+      "courseTitle": "Medicinal & Biological Chemistry",
+      "date": "2027-01-16",
+      "weekday": "SAT",
+      "dayLabel": "SAT 16th JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 1,
+      "studentCount": 7,
+      "rooms": [
+        "G008-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "CIE 302",
+      "courseTitle": "Operating Systems",
+      "date": "2027-01-16",
+      "weekday": "SAT",
+      "dayLabel": "SAT 16th JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 1,
+      "studentCount": 57,
+      "rooms": [
+        "G006-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "DSAI 353",
+      "courseTitle": "Natural language processing",
+      "date": "2027-01-16",
+      "weekday": "SAT",
+      "dayLabel": "SAT 16th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 30,
+      "rooms": [
+        "G035-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "PHYS 455",
+      "courseTitle": "Mathematical Physics III",
+      "date": "2027-01-16",
+      "weekday": "SAT",
+      "dayLabel": "SAT 16th JAN",
+      "time": "08:30-12:30",
+      "start": "08:30",
+      "end": "12:30",
+      "sectionCount": 1,
+      "studentCount": 7,
+      "rooms": [
+        "S16-B2"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "BGEN 210",
+      "courseTitle": "Programming",
+      "date": "2027-01-16",
+      "weekday": "SAT",
+      "dayLabel": "SAT 16th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 53,
+      "rooms": [
+        "G025-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "BIOL 101",
+      "courseTitle": "Biology I",
+      "date": "2027-01-16",
+      "weekday": "SAT",
+      "dayLabel": "SAT 16th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 84,
+      "rooms": [
+        "G033-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "BMS 475",
+      "courseTitle": "Bio Chemistry of Hormones and Vitamins",
+      "date": "2027-01-16",
+      "weekday": "SAT",
+      "dayLabel": "SAT 16th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 5,
+      "rooms": [
+        "G008-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SPC 419",
+      "courseTitle": "Turbomachinery",
+      "date": "2027-01-16",
+      "weekday": "SAT",
+      "dayLabel": "SAT 16th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 31,
+      "rooms": [
+        "G035-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SW 401",
+      "courseTitle": "Parallel and Distributed Computing",
+      "date": "2027-01-16",
+      "weekday": "SAT",
+      "dayLabel": "SAT 16th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 30,
+      "rooms": [
+        "G036-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "REE 418",
+      "courseTitle": "Aerodynamics of Wind Turbines",
+      "date": "2027-01-16",
+      "weekday": "SAT",
+      "dayLabel": "SAT 16th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 7,
+      "rooms": [
+        "G008-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SCH 258 / SCH 282",
+      "courseTitle": "Arabic Literature",
+      "date": "2027-01-16",
+      "weekday": "SAT",
+      "dayLabel": "SAT 16th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 2,
+      "studentCount": 28,
+      "rooms": [
+        "G035-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "DSAI 413",
+      "courseTitle": "Multimedia Analytics",
+      "date": "2027-01-16",
+      "weekday": "SAT",
+      "dayLabel": "SAT 16th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 31,
+      "rooms": [
+        "G036-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "FINC 410",
+      "courseTitle": "Fixed Income Securities",
+      "date": "2027-01-16",
+      "weekday": "SAT",
+      "dayLabel": "SAT 16th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 10,
+      "rooms": [
+        "G007-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "NANOSC 302",
+      "courseTitle": "Modern Characterization Techniques I",
+      "date": "2027-01-16",
+      "weekday": "SAT",
+      "dayLabel": "SAT 16th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 4,
+      "rooms": [
+        "G008"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SCH 244 / SCH 281",
+      "courseTitle": "Leadership & Professionalism",
+      "date": "2027-01-17",
+      "weekday": "SUN",
+      "dayLabel": "SUN 17th JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 4,
+      "studentCount": 167,
+      "rooms": [
+        "G011-B",
+        "G019-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "BCSE 301",
+      "courseTitle": "Database Management and Applications",
+      "date": "2027-01-17",
+      "weekday": "SUN",
+      "dayLabel": "SUN 17th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 9,
+      "rooms": [
+        "G007-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "CIE 318",
+      "courseTitle": "Control Systems",
+      "date": "2027-01-17",
+      "weekday": "SUN",
+      "dayLabel": "SUN 17th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 62,
+      "rooms": [
+        "G006-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "ENV 323",
+      "courseTitle": "Municipal Solid Waste Management",
+      "date": "2027-01-17",
+      "weekday": "SUN",
+      "dayLabel": "SUN 17th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 10,
+      "rooms": [
+        "G004-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "REE 429 / REE 521",
+      "courseTitle": "Smart Grid",
+      "date": "2027-01-17",
+      "weekday": "SUN",
+      "dayLabel": "SUN 17th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 2,
+      "studentCount": 25,
+      "rooms": [
+        "G035-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "NANOSC 308",
+      "courseTitle": "Introduction to Polymer Science",
+      "date": "2027-01-17",
+      "weekday": "SUN",
+      "dayLabel": "SUN 17th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 4,
+      "rooms": [
+        "G008-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "PHYS 311",
+      "courseTitle": "Statistical Mechanics I",
+      "date": "2027-01-17",
+      "weekday": "SUN",
+      "dayLabel": "SUN 17th JAN",
+      "time": "11:00-14:00",
+      "start": "11:00",
+      "end": "14:00",
+      "sectionCount": 1,
+      "studentCount": 14,
+      "rooms": [
+        "G008"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SCH 210",
+      "courseTitle": "Social Issues",
+      "date": "2027-01-17",
+      "weekday": "SUN",
+      "dayLabel": "SUN 17th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 4,
+      "studentCount": 225,
+      "rooms": [
+        "G025-B",
+        "G033-B",
+        "G038-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SWGCG 401",
+      "courseTitle": "Design & Geom Modeling for Vis & Comm",
+      "date": "2027-01-17",
+      "weekday": "SUN",
+      "dayLabel": "SUN 17th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 7,
+      "rooms": [
+        "G008-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "BMS 325",
+      "courseTitle": "Clinical Sciences",
+      "date": "2027-01-17",
+      "weekday": "SUN",
+      "dayLabel": "SUN 17th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 5,
+      "rooms": [
+        "G006-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "DSAI 406",
+      "courseTitle": "Machine Learning Eng for Production",
+      "date": "2027-01-17",
+      "weekday": "SUN",
+      "dayLabel": "SUN 17th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 14,
+      "rooms": [
+        "G008-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "ENGL 003",
+      "courseTitle": "Remedial English 2",
+      "date": "2027-01-17",
+      "weekday": "SUN",
+      "dayLabel": "SUN 17th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 11,
+      "studentCount": 264,
+      "rooms": [
+        "G033-B",
+        "G038-B",
+        "G035-B",
+        "G036-B",
+        "G004-C",
+        "G005-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "ENGR 201",
+      "courseTitle": "Circuits and Electronics",
+      "date": "2027-01-17",
+      "weekday": "SUN",
+      "dayLabel": "SUN 17th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 22,
+      "rooms": [
+        "G009-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "FINC 401",
+      "courseTitle": "Investment Theory",
+      "date": "2027-01-17",
+      "weekday": "SUN",
+      "dayLabel": "SUN 17th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 10,
+      "rooms": [
+        "G007-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "BLAW 201",
+      "courseTitle": "Business Law fundamentals",
+      "date": "2027-01-17",
+      "weekday": "SUN",
+      "dayLabel": "SUN 17th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 65,
+      "rooms": [
+        "G011-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "CSAI 302",
+      "courseTitle": "Advanced Database Systems",
+      "date": "2027-01-17",
+      "weekday": "SUN",
+      "dayLabel": "SUN 17th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 49,
+      "rooms": [
+        "G006-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "BMS 344",
+      "courseTitle": "Human Embryology",
+      "date": "2027-01-18",
+      "weekday": "MON",
+      "dayLabel": "MON 18th JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 1,
+      "studentCount": 11,
+      "rooms": [
+        "G004-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "DSAI 308",
+      "courseTitle": "Deep Learning",
+      "date": "2027-01-18",
+      "weekday": "MON",
+      "dayLabel": "MON 18th JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 1,
+      "studentCount": 87,
+      "rooms": [
+        "G011-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "DSAI 402",
+      "courseTitle": "Reinforcement Learning",
+      "date": "2027-01-18",
+      "weekday": "MON",
+      "dayLabel": "MON 18th JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 1,
+      "studentCount": 96,
+      "rooms": [
+        "G006-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "NANENG 437 / NANENG 514",
+      "courseTitle": "Organic Electronics and Photovoltaics",
+      "date": "2027-01-18",
+      "weekday": "MON",
+      "dayLabel": "MON 18th JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 2,
+      "studentCount": 15,
+      "rooms": [
+        "G006-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "REE 302",
+      "courseTitle": "Machine Design",
+      "date": "2027-01-18",
+      "weekday": "MON",
+      "dayLabel": "MON 18th JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 1,
+      "studentCount": 39,
+      "rooms": [
+        "G025-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "REE 470 / SPC 470",
+      "courseTitle": "Computer-Aided Design and Engineering",
+      "date": "2027-01-18",
+      "weekday": "MON",
+      "dayLabel": "MON 18th JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 2,
+      "studentCount": 37,
+      "rooms": [
+        "G033-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SCHN 310",
+      "courseTitle": "Fundamentals of Supply Chain Management",
+      "date": "2027-01-18",
+      "weekday": "MON",
+      "dayLabel": "MON 18th JAN",
+      "time": "08:30-10:30",
+      "start": "08:30",
+      "end": "10:30",
+      "sectionCount": 1,
+      "studentCount": 1,
+      "rooms": [
+        "G008-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "CSAI 253",
+      "courseTitle": "Machine Learning",
+      "date": "2027-01-18",
+      "weekday": "MON",
+      "dayLabel": "MON 18th JAN",
+      "time": "11:00-13:00",
+      "start": "11:00",
+      "end": "13:00",
+      "sectionCount": 1,
+      "studentCount": 34,
+      "rooms": [
+        "G006-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "NANENG 301",
+      "courseTitle": "Micro/Nano Fabrication Techniques",
+      "date": "2027-01-18",
+      "weekday": "MON",
+      "dayLabel": "MON 18th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 27,
+      "rooms": [
+        "G033-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "CIE 448",
+      "courseTitle": "IoT Systems Engineering",
+      "date": "2027-01-18",
+      "weekday": "MON",
+      "dayLabel": "MON 18th JAN",
+      "time": "13:30-15:30",
+      "start": "13:30",
+      "end": "15:30",
+      "sectionCount": 1,
+      "studentCount": 41,
+      "rooms": [
+        "G006-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "ENV 434",
+      "courseTitle": "Safety & Risk Analysis",
+      "date": "2027-01-18",
+      "weekday": "MON",
+      "dayLabel": "MON 18th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 7,
+      "rooms": [
+        "G007-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "PHIL 301 (BUS) / SCH 260",
+      "courseTitle": "Philosophical Thinking",
+      "date": "2027-01-18",
+      "weekday": "MON",
+      "dayLabel": "MON 18th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 4,
+      "studentCount": 84,
+      "rooms": [
+        "G006-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SCH 263",
+      "courseTitle": "Engineering Ethics and Safety",
+      "date": "2027-01-18",
+      "weekday": "MON",
+      "dayLabel": "MON 18th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 70,
+      "rooms": [
+        "G011-B"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SCH 299",
+      "courseTitle": "Special Topics in Humanities",
+      "date": "2027-01-18",
+      "weekday": "MON",
+      "dayLabel": "MON 18th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 1,
+      "rooms": [
+        "G008-C"
+      ],
+      "sectionRoomDetails": null
+    },
+    {
+      "courseCode": "SUST 315",
+      "courseTitle": "Climate Change and Private Business",
+      "date": "2027-01-18",
+      "weekday": "MON",
+      "dayLabel": "MON 18th JAN",
+      "time": "16:00-18:00",
+      "start": "16:00",
+      "end": "18:00",
+      "sectionCount": 1,
+      "studentCount": 44,
+      "rooms": [
+        "G019-B"
+      ],
+      "sectionRoomDetails": null
+    }
+  ],
+  "unscheduled": [
+    {
+      "courseCode": "CSAI 151",
+      "courseTitle": "Object‐Oriented Programming",
+      "studentCount": 1,
+      "reason": "no lecture schedule, no midterm"
+    },
+    {
+      "courseCode": "MGMT 305",
+      "courseTitle": "Advanced Organizational Behavior",
+      "studentCount": 1,
+      "reason": "no lecture schedule, no midterm"
+    },
+    {
+      "courseCode": "PHYS 438",
+      "courseTitle": "Compact Objects & High Energy Astrophys",
+      "studentCount": 1,
+      "reason": "no lecture schedule, no midterm"
+    },
+    {
+      "courseCode": "SPC 222",
+      "courseTitle": "Introduction to Manufacturing Processes",
+      "studentCount": 2,
+      "reason": "no lecture schedule, no midterm"
+    },
+    {
+      "courseCode": "SCH 105-IS",
+      "courseTitle": "Critical Thinking",
+      "studentCount": 61,
+      "reason": "no final exam (submission)"
+    },
+    {
+      "courseCode": "SCH 110-IS",
+      "courseTitle": "Creativity and Innovation",
+      "studentCount": 49,
+      "reason": "no final exam (submission)"
+    },
+    {
+      "courseCode": "SCH 201-IS",
+      "courseTitle": "World Literature",
+      "studentCount": 2,
+      "reason": "no final exam (submission)"
+    },
+    {
+      "courseCode": "SCH 244-IS",
+      "courseTitle": "Leadership & Professionalism",
+      "studentCount": 13,
+      "reason": "no final exam (submission)"
+    },
+    {
+      "courseCode": "SCH 258-IS",
+      "courseTitle": "Arabic Literature",
+      "studentCount": 3,
+      "reason": "no final exam (submission)"
+    },
+    {
+      "courseCode": "SCH 260-IS",
+      "courseTitle": "Philosophical Thinking",
+      "studentCount": 14,
+      "reason": "no final exam (submission)"
+    },
+    {
+      "courseCode": "SCH 264-IS",
+      "courseTitle": "Intro to Entrepreneurship & Small Mangm",
+      "studentCount": 20,
+      "reason": "no final exam (submission)"
+    },
+    {
+      "courseCode": "SCH 266-IS",
+      "courseTitle": "Sociology",
+      "studentCount": 1,
+      "reason": "no final exam (submission)"
+    },
+    {
+      "courseCode": "SCH 273-IS",
+      "courseTitle": "Cognitive Psychology",
+      "studentCount": 9,
+      "reason": "no final exam (submission)"
+    },
+    {
+      "courseCode": "SCH 275-IS",
+      "courseTitle": "The Creative Mind",
+      "studentCount": 6,
+      "reason": "no final exam (submission)"
+    },
+    {
+      "courseCode": "SCH 277-IS",
+      "courseTitle": "Positive Psychology",
+      "studentCount": 16,
+      "reason": "no final exam (submission)"
+    },
+    {
+      "courseCode": "SCH 288-IS",
+      "courseTitle": "Business Ethics",
+      "studentCount": 9,
+      "reason": "no final exam (submission)"
+    },
+    {
+      "courseCode": "ENGL 152",
+      "courseTitle": "Effective Speaking and Composition",
+      "studentCount": 151,
+      "reason": "no final exam (submission)"
+    },
+    {
+      "courseCode": "ENGL 153",
+      "courseTitle": "Scientific Writing",
+      "studentCount": 72,
+      "reason": "no final exam (submission)"
+    },
+    {
+      "courseCode": "ENGL 154",
+      "courseTitle": "Business English 1",
+      "studentCount": 20,
+      "reason": "no final exam (submission)"
+    },
+    {
+      "courseCode": "ENGL 155",
+      "courseTitle": "Business English 2",
+      "studentCount": 21,
+      "reason": "no final exam (submission)"
+    },
+    {
+      "courseCode": "ENGL 156",
+      "courseTitle": "Technical English 1",
+      "studentCount": 160,
+      "reason": "no final exam (submission)"
+    },
+    {
+      "courseCode": "ENGL 157",
+      "courseTitle": "Technical English 2",
+      "studentCount": 54,
+      "reason": "no final exam (submission)"
+    },
+    {
+      "courseCode": "BIOL 111",
+      "courseTitle": "Biology I Lab",
+      "studentCount": 84,
+      "reason": "final in last lab session"
+    },
+    {
+      "courseCode": "BMS 211",
+      "courseTitle": "General Microbiology Lab",
+      "studentCount": 34,
+      "reason": "final in last lab session"
+    },
+    {
+      "courseCode": "BMS 212",
+      "courseTitle": "Cell Biology Lab",
+      "studentCount": 36,
+      "reason": "final in last lab session"
+    },
+    {
+      "courseCode": "BMS 311",
+      "courseTitle": "Molecular Biology Lab",
+      "studentCount": 15,
+      "reason": "final in last lab session"
+    },
+    {
+      "courseCode": "BMS 343",
+      "courseTitle": "Drug Design and Computational Chem. Lab",
+      "studentCount": 7,
+      "reason": "final in last lab session"
+    },
+    {
+      "courseCode": "BMS 415",
+      "courseTitle": "Medicinal and Biological Chemistry Lab",
+      "studentCount": 7,
+      "reason": "final in last lab session"
+    },
+    {
+      "courseCode": "BMS 448",
+      "courseTitle": "Pathology Lab",
+      "studentCount": 5,
+      "reason": "final in last lab session"
+    },
+    {
+      "courseCode": "CHEM 111",
+      "courseTitle": "Chemistry I Lab",
+      "studentCount": 82,
+      "reason": "final in last lab session"
+    },
+    {
+      "courseCode": "CHEM 211",
+      "courseTitle": "Organic Chemistry Lab",
+      "studentCount": 39,
+      "reason": "final in last lab session"
+    },
+    {
+      "courseCode": "ENV 415",
+      "courseTitle": "Water and Wastewater Treatment Lab",
+      "studentCount": 3,
+      "reason": "final in last lab session"
+    },
+    {
+      "courseCode": "ENV 416",
+      "courseTitle": "Environment Chemical Unit Operations Lab",
+      "studentCount": 2,
+      "reason": "final in last lab session"
+    },
+    {
+      "courseCode": "NANOSC 312",
+      "courseTitle": "Modern Characterization Techniques Lab I",
+      "studentCount": 4,
+      "reason": "final in last lab session"
+    },
+    {
+      "courseCode": "NANOSC 315",
+      "courseTitle": "Synth/Fabrication of Nanomaterials Lab",
+      "studentCount": 5,
+      "reason": "final in last lab session"
+    },
+    {
+      "courseCode": "NANOSC 417",
+      "courseTitle": "Nanomedicine Lab",
+      "studentCount": 5,
+      "reason": "final in last lab session"
+    },
+    {
+      "courseCode": "PHYS 111",
+      "courseTitle": "Introduction to Classical Mechanics Lab",
+      "studentCount": 83,
+      "reason": "final in last lab session"
+    },
+    {
+      "courseCode": "PHYS 115",
+      "courseTitle": "Intro to Classical Mechanics for Enginee",
+      "studentCount": 26,
+      "reason": "final in last lab session"
+    },
+    {
+      "courseCode": "PHYS 211",
+      "courseTitle": "Thermo, Wave Motion and Optics Lab",
+      "studentCount": 14,
+      "reason": "final in last lab session"
+    },
+    {
+      "courseCode": "BMS 401",
+      "courseTitle": "Senior Project I",
+      "studentCount": 40,
+      "reason": "Senior project / internship / training"
+    },
+    {
+      "courseCode": "CIE 498",
+      "courseTitle": "Senior Design Project I",
+      "studentCount": 90,
+      "reason": "Senior project / internship / training"
+    },
+    {
+      "courseCode": "CSAI 399",
+      "courseTitle": "Internship",
+      "studentCount": 2,
+      "reason": "Senior project / internship / training"
+    },
+    {
+      "courseCode": "CSAI 498",
+      "courseTitle": "Senior Project - Part 1",
+      "studentCount": 115,
+      "reason": "Senior project / internship / training"
+    },
+    {
+      "courseCode": "ENGR 333",
+      "courseTitle": "Industrial Training I",
+      "studentCount": 16,
+      "reason": "Senior project / internship / training"
+    },
+    {
+      "courseCode": "ENGR 444",
+      "courseTitle": "Industrial Training II",
+      "studentCount": 1,
+      "reason": "Senior project / internship / training"
+    },
+    {
+      "courseCode": "ENV 498",
+      "courseTitle": "Senior Design Project I",
+      "studentCount": 2,
+      "reason": "Senior project / internship / training"
+    },
+    {
+      "courseCode": "ENV 598",
+      "courseTitle": "Senior Design Project I",
+      "studentCount": 13,
+      "reason": "Senior project / internship / training"
+    },
+    {
+      "courseCode": "NANENG 498",
+      "courseTitle": "NANENG Senior Design Project 1",
+      "studentCount": 26,
+      "reason": "Senior project / internship / training"
+    },
+    {
+      "courseCode": "NANENG 598",
+      "courseTitle": "Senior Design Project I",
+      "studentCount": 53,
+      "reason": "Senior project / internship / training"
+    },
+    {
+      "courseCode": "NANOSC 458",
+      "courseTitle": "Nanoscience Capstone Research Project I",
+      "studentCount": 4,
+      "reason": "Senior project / internship / training"
+    },
+    {
+      "courseCode": "PHYS 399",
+      "courseTitle": "Internship",
+      "studentCount": 1,
+      "reason": "Senior project / internship / training"
+    },
+    {
+      "courseCode": "PHYS 498",
+      "courseTitle": "Senior Project I",
+      "studentCount": 10,
+      "reason": "Senior project / internship / training"
+    },
+    {
+      "courseCode": "REE 498",
+      "courseTitle": "Senior Design Project I",
+      "studentCount": 4,
+      "reason": "Senior project / internship / training"
+    },
+    {
+      "courseCode": "REE 598",
+      "courseTitle": "Senior Design Project I",
+      "studentCount": 25,
+      "reason": "Senior project / internship / training"
+    },
+    {
+      "courseCode": "SPC 498",
+      "courseTitle": "Senior Design Project I",
+      "studentCount": 11,
+      "reason": "Senior project / internship / training"
+    },
+    {
+      "courseCode": "SPC 598",
+      "courseTitle": "Senior Design Project I",
+      "studentCount": 16,
+      "reason": "Senior project / internship / training"
+    }
+  ]
+}
